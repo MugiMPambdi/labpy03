@@ -30,7 +30,7 @@ Untuk setiap bulan:
 Hitung laba_bulan_ini = modal_awal × (laba_persen / 100) Tambahkan ke total_laba Tampilkan laba bulan tersebut
 Output Akhir
 Tampilkan total laba selama 8 bulan
-![alt image]https://github.com/MugiMPambdi/labpy03/blob/93e2485b8a9ef77c07e57602a0bf2966aeaf5653/Foto/Ss2.png
+![alt image](https://github.com/MugiMPambdi/labpy03/blob/93e2485b8a9ef77c07e57602a0bf2966aeaf5653/Foto/Ss2.png)
 
 #saldo habis
 Latihan 3 - Simulasi ATM 
@@ -60,5 +60,5 @@ Jika pilihan tidak valid:
 Tampilkan pesan error
 Pengecekan Saldo Habis
 Jika saldo = 0, tampilkan pesan saldo habis dan program berhenti
-![alt image]https://github.com/MugiMPambdi/labpy03/blob/aa30c4841f88d9c2df823fda4221981732c44567/Foto/Ss3.png
+![alt image](https://github.com/MugiMPambdi/labpy03/blob/aa30c4841f88d9c2df823fda4221981732c44567/Foto/Ss3.png)
 
