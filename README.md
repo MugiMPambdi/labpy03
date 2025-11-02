@@ -1,4 +1,5 @@
-# Menampilkan N Bilangan Acak < 0.5
+#labpy03
+#Menampilkan N Bilangan Acak < 0.5
 Latihan 1 - Bilangan Acak Deskripsi Program Program ini menampilkan n bilangan acak yang nilainya lebih kecil dari 0.5. Nilai n ditentukan oleh user saat runtime. Alur Algoritma
 Import Library
 Import fungsi random dari module random
