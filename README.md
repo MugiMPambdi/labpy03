@@ -13,4 +13,4 @@ Tambah nilai count sebesar 1 Tampilkan bilangan dengan format: data ke: {count} 
 Jika tidak, ulangi generate bilangan baru
 Output Akhir
 Tampilkan pesan "Selesai"
-![alt image]()
+![alt image](https://github.com/MugiMPambdi/labpy03/blob/e37d89d32cccc5f974346b6a9e4a45c9e3385b2b/Foto/Ss1.png)
