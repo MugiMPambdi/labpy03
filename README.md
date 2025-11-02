@@ -30,4 +30,5 @@ Untuk setiap bulan:
 Hitung laba_bulan_ini = modal_awal × (laba_persen / 100) Tambahkan ke total_laba Tampilkan laba bulan tersebut
 Output Akhir
 Tampilkan total laba selama 8 bulan
+![alt image]
 
