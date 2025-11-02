@@ -30,5 +30,35 @@ Untuk setiap bulan:
 Hitung laba_bulan_ini = modal_awal × (laba_persen / 100) Tambahkan ke total_laba Tampilkan laba bulan tersebut
 Output Akhir
 Tampilkan total laba selama 8 bulan
+![alt image]https://github.com/MugiMPambdi/labpy03/blob/93e2485b8a9ef77c07e57602a0bf2966aeaf5653/Foto/Ss2.png
+
+#saldo habis
+Latihan 3 - Simulasi ATM 
+Deskripsi Program Program simulasi mesin ATM sederhana yang memungkinkan pengguna untuk menarik uang dari saldo awal Rp 1.000.000 hingga saldo habis atau memilih untuk keluar. Alur Algoritma
+Inisialisasi Variabel
+saldo = 1.000.000 (saldo awal)
+Perulangan While
+
+Selama saldo > 0, lakukan:
+
+Tampilan Menu
+
+Tampilkan saldo saat ini Tampilkan menu:
+
+Tarik Uang
+
+Keluar
+
+Minta user memilih menu
+Proses Pilihan Menu Jika pilihan = 1 (Tarik Uang):
+Minta input jumlah penarikan Cek apakah jumlah ≤ saldo
+Jika ya: kurangi saldo, tampilkan "Penarikan berhasil!" Jika tidak: tampilkan "Saldo tidak cukup!"
+
+Jika pilihan = 2 (Keluar):
+Tampilkan pesan terima kasih Keluar dari program (break)
+Jika pilihan tidak valid:
+Tampilkan pesan error
+Pengecekan Saldo Habis
+Jika saldo = 0, tampilkan pesan saldo habis dan program berhenti
 ![alt image]
 
