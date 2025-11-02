@@ -60,5 +60,5 @@ Jika pilihan tidak valid:
 Tampilkan pesan error
 Pengecekan Saldo Habis
 Jika saldo = 0, tampilkan pesan saldo habis dan program berhenti
-![alt image]
+![alt image]https://github.com/MugiMPambdi/labpy03/blob/aa30c4841f88d9c2df823fda4221981732c44567/Foto/Ss3.png
 
